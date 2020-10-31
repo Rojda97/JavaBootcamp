@@ -22,7 +22,7 @@ public class Musteri {
 	public void musteriTanýt()
 	    {
 		
-		System.out.println("Ýsim: "+isim+ " Soyisim: "+soyisim+" Telefon numarasý: "+telefonno + 
+		System.out.println("Isim: "+isim+ " Soyisim: "+soyisim+" Telefon numarasi: "+telefonno + 
 				" Email: "+ email);
 		}
 	
